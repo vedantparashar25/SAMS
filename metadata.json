@@ -1,0 +1,8 @@
+{
+  "name": "BeaconCheck",
+  "description": "Use your laptop as a BLE beacon to clock attendance automatically via your smartphone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
